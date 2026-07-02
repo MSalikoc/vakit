@@ -9,4 +9,4 @@ GitHub Pages ile yayınlanır.
 
 **Yayın:** GitHub Pages → Settings → Pages → main / root.
 
-İletişim: m365alikoc@gmail.com
+İletişim: contact@ali-koc.com
